@@ -1,5 +1,10 @@
 const images = ["01.jpg", "03.jpg","08.jpg", "09.jpg", "10.jpg"];
 
+// const chosenImage = images[Math.floor(Math.random() * images.length)];
+
+// const bgImage = document.createElement("img");
+// const body = document.querySelector("body");
+
 
 const body = document.querySelector("body");
 

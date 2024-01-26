@@ -42,7 +42,7 @@ li{
     color: #ecf0f1;
 }
 li:before{
-    content:'😊';
+    content:'🤍';
     display: inline;
     vertical-align: left;
     padding: 5px;
